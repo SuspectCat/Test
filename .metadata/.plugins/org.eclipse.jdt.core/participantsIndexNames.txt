@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+E:\code\JSP第二阶段\day-080-jsp-EL\Test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\799535939.index
+\MobilePhoneShop\src\main\java
+E:\code\JSP第二阶段\day-080-jsp-EL\Test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2320347938.index
+\DemoELJSTL\src\main\java
